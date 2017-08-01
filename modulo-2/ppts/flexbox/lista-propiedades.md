@@ -39,7 +39,7 @@ Flexbox se divide en 2 grupos de propiedades:
 
 
 
-### Propiedades de los elementos hijo ###
+### Propiedades de los elementos hijos ###
 
 
 	* order:;
